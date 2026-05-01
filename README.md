@@ -16,7 +16,7 @@ Networking: 6 years
 -----------------------------------------------------------
 Looking for: Junior QA -> Trainee Automation
 ```
-<span style="color: #7ee787;">[✓]</span>&nbsp; Profile loaded
+[✓] Profile loaded
 
 ```bash
 user@xostrogx:~/qa-resume$ tools --list --icons
@@ -26,10 +26,9 @@ user@xostrogx:~/qa-resume$ tools --list --icons
 [→] Loading tools...
 ```
 
-<div style="background-color: #0d1117; padding: 15px; border-radius: 0px; font-family: monospace; margin: 10px 0;">
-<span style="color: #7ee787;">$</span> <span style="color: #ffffff;">tools --icons</span>
+$ tools --icons
 
-<span style="color: #ffffff ">=======================================================================</span>
+=======================================================================
 
 <p >
   <!-- Bash -->
@@ -62,11 +61,10 @@ user@xostrogx:~/qa-resume$ tools --list --icons
   <img height="32" src="/images/icon/youtrack.svg" alt="YouTrack" title="YouTrack" />
 </p>
 
-<span style="color: #ffffff ">=======================================================================</span>
+=======================================================================
 
-<span style="color: #7ee787;">[✓]</span> <span style="color: #ffffff;">14/14 tools loaded</span>
+[✓] 14/14 tools loaded
 
-</div>
 
 ```bash
 user@xostrogx:~/qa-resume$ cat resume.py
@@ -100,7 +98,7 @@ class JuniorQAEngineer:
             'commercial_qa': '0 (honestly)'
         }
 ```
-<span style="color: #7ee787;">[✓]</span>&nbsp; Code loaded
+[✓] Code loaded
 ```bash
 user@xostrogx:~/qa-resume$ ls test-artifacts/
 ===========================================================
@@ -109,15 +107,15 @@ user@xostrogx:~/qa-resume$ ls test-artifacts/
 [→] Loading artifacts...
 ```
 
-<span style="color: #7ee787;">$</span> webshop --test  |  [~/web_testing](https://github.com/xostrogx/web_testing)
+$ --test  |  [~/web_testing](https://github.com/xostrogx/web_testing)
 
-<span style="color: #7ee787;">$</span> api --rest --soap  |  [~/api_testing](https://github.com/xostrogx/api_testing)
+$ api --rest --soap  |  [~/api_testing](https://github.com/xostrogx/api_testing)
 
-<span style="color: #7ee787;">$</span> mysql --query --validate  |  [~/mysql](https://github.com/xostrogx/mysql)
+$ mysql --query --validate  |  [~/mysql](https://github.com/xostrogx/mysql)
 
-<span style="color: #7ee787;">$</span> android --manual --bugreport  |  [~/mobile_testing](https://github.com/xostrogx/mobile_testing/)
+$ android --manual --bugreport  |  [~/mobile_testing](https://github.com/xostrogx/mobile_testing/)
 
-<span style="color: #7ee787;">[✓]</span>&nbsp; 4/4 artifacts loaded 
+[✓] 4/4 artifacts loaded 
 
 ```bash
 user@xostrogx:~/qa-resume$ ls contacts/
@@ -127,13 +125,13 @@ user@xostrogx:~/qa-resume$ ls contacts/
 [→] Fetching contact information...
 ```
 
-<span style="color: #7ee787;">$</span> hh --resume  |  [~/hh/resume/xostrogx](https://voronezh.hh.ru/resume/7833b707ff0e0d02440039ed1f78394f76546b)
+$ hh --resume  |  [~/hh/resume/xostrogx](https://voronezh.hh.ru/resume/7833b707ff0e0d02440039ed1f78394f76546b)
 
-<span style="color: #7ee787;">$</span> telegram --contact  |  [@xostrogx](https://t.me/xostrogx)
+$ telegram --contact  |  [@xostrogx](https://t.me/xostrogx)
 
-<span style="color: #7ee787;">$</span> email --contact  |  [xostrogx@mail.ru](xostrogx@mail.ru)
+$ email --contact  |  [xostrogx@mail.ru](xostrogx@mail.ru)
 
-<span style="color: #7ee787;">[✓]</span>&nbsp; All contacts loaded successfully
+[✓] All contacts loaded successfully
 
 ```bash
 user@xostrogx:~/qa-resume$ exit
