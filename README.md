@@ -8,7 +8,6 @@ user@xostrogx:~/qa-resume$ python3 resume.py --info
 ```bash
 Hi! I'm Dima (@xostrogx)
 Role: Junior QA -> Trainee Automation
-Target: Manual QA -> Automation -> DevOps
 -----------------------------------------------------------
 QA practice: 7 months (educational)
 Production: 16 years
@@ -107,7 +106,7 @@ user@xostrogx:~/qa-resume$ ls test-artifacts/
 [→] Loading artifacts...
 ```
 
-$ --test  |  [~/web_testing](https://github.com/xostrogx/web_testing)
+$ web --test  |  [~/web_testing](https://github.com/xostrogx/web_testing)
 
 $ api --rest --soap  |  [~/api_testing](https://github.com/xostrogx/api_testing)
 
