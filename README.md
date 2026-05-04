@@ -80,7 +80,7 @@ class JuniorQAEngineer:
         self.username = 'xostrogx'
         self.name = 'Dima'
         self.role = ['Junior QA', 'Trainee Automation']
-        self.language_spoken = ['ru_RU', 'en_RU']
+        self.language_spoken = ['ru_RU', 'en_US']
         
         self.skills = {
             'manual_testing': ['test_cases', 'checklists', 'bug_reports', 'exploratory_testing'],
